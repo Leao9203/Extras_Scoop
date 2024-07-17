@@ -9,7 +9,7 @@
             "hash": "22e5d8c32cf14affc1398081e00894e1078dd401c3926443a8d8583180f8dbe6"
         }
     },
-    "extract_dir": "nekobox",
+    "extract_dir": "nekoray",
     "bin": [
         "nekobox_core.exe",
         "nekobox.exe"
@@ -29,7 +29,7 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/MatsuriDayo/nekoray/releases/download/$version/nekoray-$version-$matchExtra-windows64.zip",
-                "extract_dir": "nekobox"
+                "extract_dir": "nekoray"
             }
         }
     }
