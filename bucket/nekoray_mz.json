@@ -9,7 +9,7 @@
             "hash": "3987ee453e14468c4c340d3c9579a4c973626b3c25eb4d44ac345298a18061c6"
         }
     },
-    "extract_dir": "nekoray_mz",
+    "extract_dir": "nekoray",
     "bin": [
         "nekobox_core.exe",
         "nekoray.exe"
@@ -29,7 +29,7 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/Mahdi-zarei/nekoray/releases/download/$version/nekoray-$version-$matchExtra-windows64.zip",
-                "extract_dir": "nekoray_mz"
+                "extract_dir": "nekoray"
             }
         }
     }
